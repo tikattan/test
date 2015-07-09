@@ -1,0 +1,42 @@
+/**
+ * 
+ */
+package lanterns;
+
+/**
+ * @author nirav
+ *
+ */
+public class Master {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.print("say something");
+	}
+	
+	public static initgame(){
+		
+	}
+	
+	public static gamestatus(){
+		 
+		user u1 = new user(u1, info);
+	}
+
+}
+public class user{
+	HashMap h = new HashMap(u1, info);
+}
+public class cards(){
+	arraylist a = new arraylist
+			
+}
+public class lanterncards() {
+	String color = new String;
+	int num_of_cards;
+	 
+	
+}
